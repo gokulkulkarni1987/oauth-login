@@ -1,0 +1,4 @@
+#Wed Jul 11 18:13:33 IST 2018
+base.0=/Mydrive/Learning/NodeJS/Auth0/00-login/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Mydrive/Learning/NodeJS/Auth0/00-login/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
